@@ -1,15 +1,11 @@
 ## Hello World, I'm Luiz Gomes!
 
-<div style="display: inline_block"
-  margin-left: auto;
-  margin-right: auto;
-  width: 6em><br>
 - 💻 Estudante de Tecnologia<br>
 - 🧰 Desenvolvedor Full Stack<br>
 - 💡 Em busca do conhecimento
-  </div>
+ 
 
-<div align="center">
+<div>
   <a href="https://github.com/Luiz-Gomesdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Gomesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Gomesdev&layout=compact&langs_count=7&theme=dark"/>
