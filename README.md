@@ -1,6 +1,9 @@
 ## Hello World, I'm Luiz Gomes!
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em><br>
 - 💻 Estudante de Tecnologia<br>
 - 🧰 Desenvolvedor Full Stack<br>
 - 💡 Em busca do conhecimento
