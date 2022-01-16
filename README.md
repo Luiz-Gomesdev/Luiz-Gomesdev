@@ -1,8 +1,8 @@
 ## Hello World, I'm Luiz Gomes!
 
 <div style="display: inline_block"><br>
-- 💻 Estudante de Tecnologia
-- 🧰 Desenvolvedor Full Stack
+- 💻 Estudante de Tecnologia<br>
+- 🧰 Desenvolvedor Full Stack<br>
 - 💡 Em busca do conhecimento
   </div>
 
