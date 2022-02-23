@@ -3,6 +3,7 @@
 - 💻 Estudante de Tecnologia<br>
 - 🧰 Desenvolvedor Full Stack<br>
 - 💡 Em busca do conhecimento
+- ✅ Just do It
  
 ## **Linguagens e Ferramentas:**  
 
