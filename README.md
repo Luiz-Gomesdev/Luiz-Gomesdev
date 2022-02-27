@@ -1,9 +1,9 @@
 ## Hello World, I'm Luiz Gomes!
 
-- 💻 Estudante de Tecnologia<br>
-- 🧰 Desenvolvedor Full Stack<br>
-- 💡 Em busca do conhecimento
-- ✅ Just do It
+- 💻 I'm student of technology<br>
+- 🧰 Software Developer Full Stack<br>
+- 💡 The only time success comes before work is in the dictionary.
+- ✅ Just do it.
  
 ## **Linguagens e Ferramentas:**  
 
