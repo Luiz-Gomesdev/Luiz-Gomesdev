@@ -5,7 +5,7 @@
 - 💡 The only time success comes before work is in the dictionary.
 - ✅ Just do it.
  
-## **Linguagens e Ferramentas:**  
+## **Methods:**  
 
 <div>
   <a href="https://github.com/Luiz-Gomesdev">
@@ -32,7 +32,7 @@
   </div>
 
   
- ## **Vamos nos Conectar:**
+ ## **Let's Connect:**
  
 <div> 
   
